@@ -14,3 +14,7 @@ Please fork this repository and follow along **using your fork** as the instruct
 
 - make the port dynamic
 - add "start": "node index.js" to scripts
+- create application on heroku
+- connect to the repository on github
+- pick a branch to deploy
+- enable automatic deployment
